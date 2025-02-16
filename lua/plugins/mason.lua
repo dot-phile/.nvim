@@ -1,0 +1,6 @@
+return {
+  {
+    "williambowman/mason.nvim"
+  }
+
+}
